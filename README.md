@@ -1,7 +1,5 @@
 # Milestone 1 project rebuild
 
----
-
 The purpose of rebuilding my milestone 1 project is for a homework assessment for the advanced topics course at UNLV. The specific criteria needed to mark this project complete are as follows:
 
 - 10-15 SCSS variables
